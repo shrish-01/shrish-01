@@ -8,6 +8,7 @@ I'm Shrish from India, and I am exploring the world of Software Development. I a
 -->
 ### Hi there 👋, Shrish Dollin
 #### Development, Design & Problem Solving!
+![Development, Design & Problem Solving!](https://media.licdn.com/dms/image/C4E16AQEiiJVJaLpNkg/profile-displaybackgroundimage-shrink_350_1400/0/1638548767561?e=1700092800&v=beta&t=Q2qUGF2jKvYoqOyXLq91TvlgrqwuZ3PMRWa2ZamF04o)
 
 I'm Shrish from India, and I am exploring the world of Software Development. I am enjoying learning languages and frameworks like Java, Javascript & MERN. I also enjoy designing in general, and I use figma for that purpose! You can find me on https://www.linkedin.com/in/shrish-dollin/ or https://youtube.com/@ShrishDollin
 
