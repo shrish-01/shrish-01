@@ -1,20 +1,13 @@
-<!--
-### Hi there 👋
-
-I'm Shrish from India, and I am exploring the world of Software Development. I am enjoying learning languages and frameworks like Java, Javascript & MERN. I also enjoy designing in general, and I use figma for that purpose! You can find me on https://www.linkedin.com/in/shrish-dollin/ or https://youtube.com/@ShrishDollin
-
-[![Shrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrish-01)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-### Hi there 👋, Shrish Dollin
-#### Development, Design & Problem Solving!
 ![Development, Design & Problem Solving!](https://github.com/shrish-01/shrish-01/blob/main/SHRISH%20DOLLIN.png)
 
+### Hi there 👋, I'm Shrish Dollin
+#### Development, Design & Problem Solving!
+
 I'm Shrish from India, and I am exploring the world of Software Development. I am enjoying learning languages and frameworks like Java, Javascript & MERN. I also enjoy designing in general, and I use figma for that purpose! You can find me on https://www.linkedin.com/in/shrish-dollin/ or https://youtube.com/@ShrishDollin
 
+## Skills
 
-
-Skills: Java, JavaScript, C++, HTML/CSS, Bootstrap, NodeJS, ExpressJS, React, TailwindCSS, MongoDB, mySQL, Git, GitHub, VS Code, Visual Studio, Eclipse
+Java, JavaScript, C++, HTML/CSS, Bootstrap, NodeJS, ExpressJS, React, TailwindCSS, MongoDB, mySQL, Git, GitHub, VS Code, Visual Studio, Eclipse
 
 - 🔭 I’m currently working on a Booking App, airbnb like website. 
 - 🌱 I’m currently learning The MERN Stack. 
