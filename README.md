@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrish-01&label=Profile%20views&color=0e75b6&style=flat" alt="shrish-01" /> </p>
 
-- 🔭 I’m currently working on [a Booking App](https://github.com/shrish-01/airbnb-clone).
+- 🔭 I’m currently working on [a Spotify-Like app, with a bunch of imaginary features!](https://github.com/shrish-01/Spotify).
 
 - 🌱 I’m currently learning **the MERN Stack.**
 
