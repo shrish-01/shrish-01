@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrish-01&label=Profile%20views&color=0e75b6&style=flat" alt="shrish-01" /> </p>
 
-- 🔭 I’m currently working on [a Spotify-Like app, with a bunch of imaginary features!](https://github.com/shrish-01/Spotify).
+- 🌱 I’m currently learning **the MERN Stack & the DevOps side of things, especially the Messaging & Streaming Platforms - Kafka**
 
-- 🌱 I’m currently learning **the MERN Stack.**
-
-- 💬 Ask me about **Development & Problem Solving.**
+- 💬 Ask me about **Javascript, Redpanda(Kafka) & maybe problem solving!**
 
 - 📫 How to reach me **shrish.dollin1@gmail.com**
 
